@@ -50,9 +50,9 @@ Follow along live: [Link to come in the workshop]
 7. Then head back to Glitch, it's time to write some code!
 
 ### Extend and improve your app further
-- Add support for multiple changing dependencies in a single pull request
+- Support multiple changing dependencies in a single pull request
 - Show license information as part of the annotation
 - Customise warning/notices
-- Add an [action button](https://developer.github.com/changes/2018-05-23-request-actions-on-checks/) to "approve the dependency changes"
+- Add an "[action button](https://developer.github.com/changes/2018-05-23-request-actions-on-checks/)" to let the legal team “approve" the dependency changes
 - Modify the check “conclusion” based on the changed dependencies
 - Experiment further with all the other APIs and build something completely different
