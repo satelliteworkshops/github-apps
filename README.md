@@ -23,9 +23,9 @@
 - A GitHub.com account
 
 ### Useful links throughout the workshop
-- Creating an issue
-  - API documentation: https://developer.github.com/v3/issues/#create-an-issue
-  - Node SDK: https://octokit.github.io/rest.js/#octokit-routes-issues-create
+- Creating an issue comment
+  - API documentation: https://developer.github.com/v3/issues/comments/#create-a-comment
+  - Node SDK: https://octokit.github.io/rest.js/#octokit-routes-issues-create-comment
 - Creating a check run
   - API documentation: https://developer.github.com/v3/checks/runs/#create-a-check-run
   - Node SDK: https://octokit.github.io/rest.js/#octokit-routes-checks-create
