@@ -16,8 +16,6 @@
   </a>
 </p>
 
-Check back soon for workshop materials :eyes:
-
 ---
 
 ### Workshop Pre-requisites
