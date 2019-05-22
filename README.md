@@ -34,7 +34,7 @@
    - Node SDK: https://octokit.github.io/rest.js/#octokit-routes-repos-get-contents
 - Page where you can view and re-deliver webhooks: https://github.com/settings/apps/your-app-name/advanced
 
-Follow along live: [Link to come in the workshop]
+Follow along live: https://glitch.com/edit/#!/metal-bell-1
 
 ### Workshop steps
 1. Fork the [satelliteworkshops/app-playground](https://github.com/satelliteworkshops/app-playground) repo to your personal account
